@@ -1,3 +1,17 @@
+## Zadané hodnotenie
+**Text zprávy:**  
+* Dobrá dokumentace knihovny  
+* Čitelná implementace  
+* Rozumné testy  
+* Úspěšný test obsahující ukázkový skript  
+* Úspěšný test správnosti zpracování všech validních kodonu  
+* Úspěšný test ověřující vytváření nových objektů  
+* Úspěšný test ověřující zpracování stop kodonů  
+* Úspěšný test ověřující chování pro velmi dlouhou mRNA  
+* Dobrá rychlost implementace  
+
+**10/10**
+
 ## Popis:
 Cílem projektu je seznámit se a pochopit programovací konstrukty jazyku JavaScript, objekty, řetězec prototypů, konstruktory a základy tříd ECMAScriptu 2015. Vaším úkolem bude vytvořit knihovnu translation poskytující základní operace potřebné pro práci s translací při syntéze bílkovin.
 
